@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://marciotanan.github.io/Html-Css/tree/main/Desafios/010/index.html">Executar o exercicio 010</a>
+<a href="https://marciotanan.github.io/Html-Css/Desafios/010/index.html">Executar o exercicio 010</a>
