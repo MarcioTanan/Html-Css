@@ -49,13 +49,13 @@ menu > ul > li > a {
   padding: 10px;
   text-decoration: none;
   text-align: center;
-  background-color: rgba(85, 85, 85,);
+  background-color: rgb(86, 86, 86);
   color: white;
   border-top: 2px solid gray;
 }
 
 menu > ul > li > a:hover {
-  background-color: gray;
+  background-color: rgb(68, 67, 67);
 }
 
 main {
